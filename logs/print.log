@@ -1,0 +1,7 @@
+13:14:43.658 [main] ERROR Alpha.basic - ERROR
+13:14:43.660 [main] FATAL Alpha.basic - zayn
+13:15:02.783 [main] DEBUG Beta.Demo - object is Present
+13:15:02.785 [main] ERROR Beta.Demo - ERROR
+13:15:02.785 [main] DEBUG Beta.Demo - I am debugging
+13:15:02.785 [main] INFO  Beta.Demo - Success
+13:15:02.785 [main] FATAL Beta.Demo - zayn
